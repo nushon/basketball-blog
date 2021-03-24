@@ -1,0 +1,50 @@
+#navBar{
+    display: grid;
+    grid-template-columns: 40% 10% 10% 10%;
+    column-gap: 5%;
+    height: 150px;
+    background-color: rgb(1, 24, 66);
+}
+
+#logo{
+    /* background-image: url(./image/logo.jpg); */
+}
+
+img{
+    width: 50%;
+    margin: 35px 0px 0px 30px;
+    border-radius: 5px;
+    opacity: 0.5px;
+}
+
+h3{
+    font-size: xx-large;
+    margin: 90px 0px 0px 0px;
+    color: rgb(170, 6, 6);
+    font-family: monospace;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(1, 11, 31);
+    font-family: sans-serif;
+    margin: 0vh;
+}
+
+#main{
+    height: 519px;
+    width: 100%;
+    background-color:   rgb(1, 11, 31);
+    background-image: url(./image/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 5px;
+    
+}
+/* 
+Blog Page */
+
